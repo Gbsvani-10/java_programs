@@ -1,0 +1,9 @@
+class Demo2
+{
+	public static void main(String args[])
+	{	int x=10;
+		int y=20;
+		System.out.println("hello welcome to java lab");
+		System.out.println("x="+x+"y="+y);
+	}
+}
